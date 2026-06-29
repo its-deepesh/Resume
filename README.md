@@ -1,91 +1,63 @@
 # Deepesh Singh Resume
 
-A personal resume website built using pure **HTML5 semantic elements**. This project demonstrates the proper use of semantic tags to structure a real-world resume without using <div> or <span>.
-
----
+A personal resume website built using **HTML5** and **CSS3**. This project demonstrates the use of semantic HTML elements along with modern CSS styling to create a clean, responsive, and professional resume webpage.
 
 ## 📌 Project Overview
 
-This resume website was developed as part of a Web Development Internship assignment. The objective was to build a complete resume page using only semantic HTML tags.
+This project was developed as part of my **Web Development Internship**.
 
-### 🚀 Features
+- **Day 3:** Created a resume using semantic HTML5 elements.
+- **Day 4:** Enhanced the resume by applying external CSS for layout, typography, colors, spacing, and responsive design.
+
+## 🚀 Features
+
 - Semantic HTML5 structure
-- Responsive page structure
-- Navigation links
-- About Me section
-- Experience section
-- Education details
-- Skills section
-- Projects section
-- Hobbies section
-- Certifications section
-- Contact form
-- External links to GitHub and LinkedIn
-- Accessibility-friendly elements
+- External CSS styling
+- Responsive layout using Flexbox
+- Sticky sidebar
+- Professional typography
+- Modern color scheme
+- Styled navigation bar
+- Responsive tables
+- Styled contact form
+- Clean and user-friendly interface
 
----
+## 🛠️ Technologies Used
 
-### 🏗️ HTML Tags Used
-- header
-- footer
-- nav
-- aside
-- section
-- article
-- hgroup
-- figure
-- figcaption
-- ul
-- ol
-- li
-- table
-- details
-- summary
-- form
-- input
-- button
-- time
-- address
-
----
-
-### 🛠 Technologies Used
 - HTML5
+- CSS3
+- Git
+- GitHub
+- Visual Studio Code
 
----
+## 📂 Project Structure
 
-### 📂 Project Structure
-resume/  
-│  
-├── index.html  
-├── profilepic.jpeg  
-└── README.md
+```text
+Resume/
+│
+├── index.html
+├── style.css
+├── profilepic.jpeg
+├── README.md
+└── screenshots/
+```
 
----
+## 📚 What I Learned
 
-### 📚 Sections Included
-- About Me
-- Experience
-- Education
-- Skills
-- Projects
-- Hobbies
-- Certifications
-- Contact
+- Built a resume using semantic HTML5 elements.
+- Linked an external CSS stylesheet.
+- Styled webpages using CSS3.
+- Applied the CSS Box Model.
+- Used Flexbox for page layout.
+- Implemented a sticky sidebar.
+- Styled navigation menus, tables, forms, and buttons.
+- Improved webpage responsiveness.
+- Used Git and GitHub for version control.
 
----
+## 👨‍💻 Author
 
-### 🔗 Connect With Me
-- **GitHub**: [https://github.com/its-deepesh](https://github.com/its-deepesh)
-- **LinkedIn**: [https://www.linkedin.com/in/deepesh-singh-8aa82134a/](https://www.linkedin.com/in/deepesh-singh-8aa82134a/)
+**Deepesh Singh**
 
----
+GitHub: https://github.com/its-deepesh
 
-### 👨‍💻 Author
-**Deepesh Singh**  
-BCA Student | Aspiring Software Developer  
-Passionate about Web Development, Programming, Data Science, and Problem Solving.
-
----
-
-⭐ If you found this project helpful, feel free to star the repository.
+LinkedIn: https://www.linkedin.com/in/deepesh-singh-8aa82134a/
